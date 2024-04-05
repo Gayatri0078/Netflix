@@ -1,0 +1,165 @@
+body{
+    background-image: url('./images/background.jpg');
+    background-size: 120% 40%;
+    background-repeat: no-repeat;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    margin-top: 0px;
+    margin-left: 170px;
+    margin-right: 740px;
+}
+.lang{
+    margin-top: 2px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 5px 35px 5px 35px;
+}
+.line1{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    text-align: center;
+
+} 
+.line2 {
+    color: white;
+    font-weight: 100;
+    text-align: center;
+}
+.email{
+    padding:14px 110px 14px 110px;
+    opacity: 0.5;  
+    border-radius: 7px;
+    border-color:whitesmoke;
+    margin-right: 6px;
+    background-color: black;
+    color: white;
+}
+.sign_in
+{
+    color: white;
+    background-color: red;
+    border-color: red;
+    border-radius: 7px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 10px;
+}
+.get_started{
+    color: white;
+    background-color: red;
+    border-color: red;
+    padding: 5px 18px 8px 18px ;
+    border-radius: 7px;
+    font-size: 25px;
+}
+.email_row{
+    text-align: center;
+}
+.box1 {
+    background-color: black;
+    color: white;
+    display: flex;
+    border-top:10px  rgb(37, 35, 35) solid ;
+    border-bottom: 10px  rgb(37, 35, 35) solid;
+}
+.box1 ,.box2,.box3,.box4{
+    background-color: black;
+    color: white;
+    display: flex;
+    border-bottom: 10px  rgb(37, 35, 35) solid;
+}
+.con {
+    align-items: center;
+    margin: 200px 50px 250px 200px;
+}
+.st {
+    margin: 10px 0px 20px 20px;
+}
+.tv_img ,.rajma_img{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.st_img,.kids_img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+/*box1*/
+.line3 ,.line7{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.line4,.line8 {
+    color: white;
+    font-weight: 100;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+/*box2*/
+.line5,.line9 {
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    font-weight: bolder;
+}
+.line6 ,.line10{
+    color: white;
+    font-weight: 100;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/*Frequently Asked Questions*/
+.fre {
+    color: white;
+    background-color: black;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 900;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.all {
+    background-color: black;
+    color: white;
+    border-bottom: 10px  rgb(37, 35, 35) solid;
+
+}
+.que {
+    background-color: rgb(37, 35, 35);
+    padding:10px 10px 10px 25px;
+    text-align:left;
+    font-size: 25px;
+    font-weight: 60%;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(37, 35, 35);
+    margin-left: 180px;
+    margin-right: 170px;
+}
+.plus1 {
+    margin-left: 900px;
+    font-size: 150%;
+}
+.plus2,.plus5 {
+    margin-left: 750px;
+    font-size: 150%;
+}
+.plus3 {
+    font-size: 150%;
+    margin-left: 850px;
+}
+.plus4 {
+    margin-left: 880px;
+    font-size: 150%;
+}
+.plus6 {
+    font-size: 150%;
+    margin-left: 810px;
+}
+.ready {
+    text-align: center;
+}
